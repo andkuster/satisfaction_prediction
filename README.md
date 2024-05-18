@@ -17,7 +17,8 @@ A base de dados contém informações detalhadas das respostas dos passageiros s
 
 A motivação para este estudo é entender melhor os fatores que contribuem para a satisfação dos passageiros e como esses insights podem ser utilizados para melhorar a **experiência do cliente** nas companhias aéreas. Além disso, aplicar técnicas avançadas de machine learning e clusterização oferece uma oportunidade de desenvolver habilidades práticas em *análise de dados e modelagem preditiva*.
 
-https://raw.githubusercontent.com/andkuster/satisfaction_prediction/main/omar-prestwich-unsplash.jpg
+![Texto Alternativo](https://raw.githubusercontent.com/andkuster/satisfaction_prediction/main/omar-prestwich-unsplash.jpg)
+
 Foto de <a href="https://unsplash.com/pt-br/@omarprestwich?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Omar Prestwich</a> na <a href="https://unsplash.com/pt-br/fotografias/pessoas-no-aviao-durante-o-dia-FCM4k7LcggU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ### Link do Notebook:
